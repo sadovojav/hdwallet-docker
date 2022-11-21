@@ -3,7 +3,7 @@ Python-based library for the implementation of a hierarchical deterministic wall
 
 ## Usage
 ```shell script
-git clone git@github.com:sadovojav/hdwallet-docker.git
+git clone https://github.com/sadovojav/hdwallet-docker.git
 cd hdwallet-docker
 docker compose up -d
 ```
